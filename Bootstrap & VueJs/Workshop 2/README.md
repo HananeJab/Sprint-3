@@ -1,6 +1,6 @@
 # Workshop 2 - VueJS Portfolio
 
-<h1 align="center">VueJS portfolio template</h1>
+<h1 align="center">VueJS portfolio</h1>
 
 > Portfolio template using VueJs framework, CosmicJS API(optional) and Bootstrap
 
