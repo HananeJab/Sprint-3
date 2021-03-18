@@ -10,7 +10,7 @@ Vous devez activer le routeur dans l'application Vue. Ces routeurs vont nous per
 - Implement Vue navigation avec Bootstrap 4 : 
 Vous allez créer une barre de navigation simple et belle qui vous permettra de passer d'un modèle à un autre dans l'application Vue.
 
-Voir la vidéo [Demo]().
+Voir les captures d'écrans.
 
 ## Font
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
