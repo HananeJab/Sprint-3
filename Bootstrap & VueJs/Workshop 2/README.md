@@ -4,7 +4,7 @@
 
 > Portfolio template using VueJs framework, CosmicJS API(optional) and Bootstrap
 
-
+Voir [Vidéo](https://github.com/HananeJab/Sprint-3/blob/main/Bootstrap%20%26%20VueJs/Workshop%202/Tuto.mp4)
 ---
 ## ToDo 
 
