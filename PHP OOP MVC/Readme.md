@@ -2,8 +2,8 @@
 
 ## Veilles 
 * OOP PHP
-* Difeerence bitween MVC, MVP & MVVM
-* Difference bitween Class, Instance & Object
+* Difference between MVC, MVP & MVVM
+* Difference between Class, Instance & Object
 * 
 
 ## Workshop
