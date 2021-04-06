@@ -2,7 +2,7 @@
 
 # Bootstrap Workshop (this workshop will help you to learn bootstrap)
 
-- [Download this project](https://github.com/) to get started.
+- [Download this project](https://github.com/HananeJab/Sprint-3/tree/main/Bootstrap%20%26%20VueJs/Workshop%20Bootstrap) to get started.
 - Open index.html in your favorite editor.
 - What are you wating for?
 
