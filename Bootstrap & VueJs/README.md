@@ -14,4 +14,7 @@ Travail en binôme
 ## Mots clés : 
 Serveur web, HTML, CSS, SASS, JavaScript, VueJS, Bootstrap
 
+### Prérequis :
+POO JS voir Exemple
+
 ## Goodluck best team
