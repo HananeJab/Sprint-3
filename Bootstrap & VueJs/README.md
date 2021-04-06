@@ -1,6 +1,6 @@
 # VueJS & Bootstrap
 
-Le but de ces workshops est de se familiariser avec CSS Bootstrap 4 et Vue.js.
+Le but de ces workshops est de se familiariser avec Bootstrap 4 et Vue.js.
 
 ## Livrable
 
@@ -12,7 +12,7 @@ Lien repo github contient :
 Travail en binôme
 
 ## Mots clés : 
-Serveur web, HTML, CSS, SASS, JavaScript, VueJS, Bootstrap
+Serveur web, HTML, CSS, JavaScript, VueJS, Bootstrap 4, POO
 
 ### Prérequis :
 POO JS voir Exemple
