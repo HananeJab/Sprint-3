@@ -9,4 +9,5 @@
 * MVC
 
 ## Workshop
-1. Classes & Objects
+1. POO
+2. MVC
