@@ -13,7 +13,6 @@ Each assignment contains a couple of images that shows the desired result. I've 
 
 * If you get stuck with an assignment, ask for help or ask for help 2 :P !
 * Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
-* Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
 * Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
 
 ## Assignment 1: Grid
