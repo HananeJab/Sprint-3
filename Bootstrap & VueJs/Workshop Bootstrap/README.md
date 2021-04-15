@@ -9,12 +9,6 @@
 Each assignment contains a couple of images that shows the desired result. I've decided to no include CSS editing in this workshop, but feel free to add margins under some elements to make it look better.
 
 
-#### Extra
-
-* If you get stuck with an assignment, ask for help or ask for help 2 :P !
-* Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
-* Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
-
 ## Assignment 1: Grid
 
 Create a grid that has four columns, independent of screen size. Then put images inside them. [Read more at getbootstrap.com](http://getbootstrap.com/css/#grid)
